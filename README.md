@@ -1,4 +1,4 @@
-# Project: DSong Play Analysis
+# Project: Song Play Analysis
 
 ## Introduction
 
@@ -6,8 +6,6 @@ A music streaming startup, Sparkify, has grown their user base and song database
 
 As their data engineer, you are tasked with building an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights into what songs their users are listening to.
 
-<img src="./images/sparkify-s3-to-redshift-etl.png">
-System Architecture for AWS S3 to Redshift ETL
 
 Project using dataset is subset of <a href="http://millionsongdataset.com/">Million Song Dataset</a>
 
